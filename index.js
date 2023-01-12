@@ -1,3 +1,5 @@
+// const SERVER_URL = 'https://comp4537-lab2-server.onrender.com';
+
 const SERVER_URL = 'https://comp4537-lab2-server.onrender.com';
 
 $(document).ready(function() {
