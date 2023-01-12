@@ -1,4 +1,4 @@
-const SERVER_URL = 'http://localhost:3000';
+const SERVER_URL = 'https://comp4537-lab2-server.onrender.com';
 
 $(document).ready(function() {
 	$('#chatbot-form').submit(function(event) {
